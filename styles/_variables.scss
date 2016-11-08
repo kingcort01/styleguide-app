@@ -1,0 +1,20 @@
+//-- typo:start --//
+$font-proxima: 'Proxima Nova', helvetica, sans-serif; // 300, 700
+$font-proxima-alternative: 'Neue Helvetica W01', helvetica, sans-serif; // 400, 400 italic
+$font-newsgothic: 'News Gothic Std', helvetica, sans-serif; // 700
+//-- typo:end --//
+//-- colors:start --//
+$color-black: #000000;
+$color-dark: #ccc;
+$color-lighter-2: #248776;
+//-- colors:end --//
+
+.btn{
+
+  color: #54bce8;
+  &-lg{
+    font-size: 40px;
+  }
+
+}
+

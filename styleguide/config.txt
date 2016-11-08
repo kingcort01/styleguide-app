@@ -2,7 +2,7 @@
   "projectName": "",
   "projectUrl": "",
   "projectLogo": "",
-  "jsResources": [],
+  "jsResources": ["../node_modules/bootstrap/dist/js/bootstrap.js"],
   "viewportWidths": [
     320,
     480,
@@ -11,12 +11,12 @@
     1200
   ],
   "serverPort": 8889,
-  "snippetTemplate": "template.html",
-  "cssVariables": [],
+  "snippetTemplate": "styleguide\\template.html",
+  "cssVariables": ["styles/_variables.scss"],
   "maxSassIterations": 2000,
-  "database": "db",
-  "categories": "db\\categories.txt",
-  "uniques": "db\\uniques.txt",
-  "sassData": "db\\sassdata.txt",
+  "database": "styleguide\\db",
+  "categories": "styleguide\\db\\categories.txt",
+  "uniques": "styleguide\\db\\uniques.txt",
+  "sassData": "styleguide\\db\\sassdata.txt",
   "extension": ".txt"
 }

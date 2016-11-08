@@ -1,5 +1,5 @@
 {
-  "name": "styleguide-sample",
+  "name": "styleguide-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "bootstrap": "^3.3.7",
     "devbridge-styleguide": "^0.4.17",
     "gulp": "^3.9.1",
     "live-server": "^1.1.0"

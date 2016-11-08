@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Visible Label",
+    "code": "<form class=\"form-inline\">\r\n  <div class=\"form-group\">\r\n    <label for=\"exampleInputName2\">Name</label>\r\n    <input type=\"text\" class=\"form-control\" id=\"exampleInputName2\" placeholder=\"Jane Doe\">\r\n  </div>\r\n  <div class=\"form-group\">\r\n    <label for=\"exampleInputEmail2\">Email</label>\r\n    <input type=\"email\" class=\"form-control\" id=\"exampleInputEmail2\" placeholder=\"jane.doe@example.com\">\r\n  </div>\r\n  <button type=\"submit\" class=\"btn btn-primary\">Send invitation</button>\r\n</form>",
+    "description": "",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "true",
+    "isEdited": false,
+    "isDeleted": false
+  }
+]
